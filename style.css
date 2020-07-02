@@ -1,3 +1,17 @@
-.p {
-    color:green
+.carousel-item{
+height:45%;
+width: 55%;
+margin-left: 25%;
+} 
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.carousel-text {
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.253);
+    color: white;
+    background-color: rgba(2, 16, 29, 0.233);
 }
